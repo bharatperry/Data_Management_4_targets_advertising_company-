@@ -17,9 +17,9 @@ The [data description](https://github.com/bharatperry/Data_Management_4_targets_
 
 ## Insurance DataSets
 
-[Data 1. Customer](https://github.com/bharatperry/Data_Management_4_targets_advertising_company-/blob/94ba19fcdc74ad44233a9b9dda5913996860d241/Data%201_Customer%20(2).xlsx)
-[Data 2. Motor Policies](https://github.com/bharatperry/Data_Management_4_targets_advertising_company-/blob/94ba19fcdc74ad44233a9b9dda5913996860d241/Data%202_Motor%20Policies%20(1).xlsx)
-[Data 3. Health Policies](https://github.com/bharatperry/Data_Management_4_targets_advertising_company-/blob/94ba19fcdc74ad44233a9b9dda5913996860d241/Data%203_Health%20Policies%20(1).xlsx)
-[Data 4. Travel Policies](https://github.com/bharatperry/Data_Management_4_targets_advertising_company-/blob/94ba19fcdc74ad44233a9b9dda5913996860d241/Data%204_Travel%20Policies%20(1).xlsx)
+[Data 1. Customer](https://github.com/bharatperry/Data_Management_4_targets_advertising_company-/blob/94ba19fcdc74ad44233a9b9dda5913996860d241/Data%201_Customer%20(2).xlsx)   .
+[Data 2. Motor Policies](https://github.com/bharatperry/Data_Management_4_targets_advertising_company-/blob/94ba19fcdc74ad44233a9b9dda5913996860d241/Data%202_Motor%20Policies%20(1).xlsx)   .
+[Data 3. Health Policies](https://github.com/bharatperry/Data_Management_4_targets_advertising_company-/blob/94ba19fcdc74ad44233a9b9dda5913996860d241/Data%203_Health%20Policies%20(1).xlsx)   .
+[Data 4. Travel Policies](https://github.com/bharatperry/Data_Management_4_targets_advertising_company-/blob/94ba19fcdc74ad44233a9b9dda5913996860d241/Data%204_Travel%20Policies%20(1).xlsx)   .
 
 
